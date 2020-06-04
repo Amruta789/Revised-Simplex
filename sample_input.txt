@@ -1,0 +1,5 @@
+Maximise Z = 5x1 + 4x2 + 0s1 + 0s2 + 0s3 + 0s4
+Subjected to 6x1 + 4x2 + 1s1 + 0s2 + 0s3 + 0s4 = 24
+1x1 + 2x2 + 0s1 + 1s2 + 0s3 + 0s4 = 6
+-1x1 + 1x2 + 0s1 + 0s2 + 1s3 + 0s4 = 1
+0x1 + 1x2 + 0s1 + 0s2 + 0s3 + 1s4 = 2
